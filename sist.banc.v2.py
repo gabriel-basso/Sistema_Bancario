@@ -94,7 +94,7 @@ def listar_contas(contas):
         print(linha)
 
 def main():
-    limite_saques = 5
+    limite_saques = 3
     agencia = '0001'
 
     saldo = 0
