@@ -66,7 +66,7 @@ class Conta:
             return True
         
         else:
-            print('A operação falhou. Valor informado inválido.')
+            print('A operação de saque falhou. Valor informado inválido.')
 
             return False
     
