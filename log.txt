@@ -1,0 +1,4 @@
+[2025-07-24 11:43:33] Função 'criar_cliente' executada com argumentos nome=Gabriel, cpf=2. Retornou None
+[2025-07-24 11:43:41] Função 'criar_conta' executada com argumentos agencia=0001. Retornou None
+[2025-07-24 11:43:56] Função 'depositar' executada com argumentos args=([<PessoaFisica: ('Gabriel', '2')>],), kwargs={}. Retornou None
+[2025-07-24 11:48:49] Função 'criar_cliente' executada com argumentos nome=Laura, cpf=2. Retornou None
